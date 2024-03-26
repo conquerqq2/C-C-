@@ -4,4 +4,5 @@
     主函数：在 main() 函数中，调用 generateCombinations() 函数来生成所有的组合，并通过循环遍历输出每个组合的注射剂量和单次注射剂量。
     运行结果：
     https://github.com/conquerqq2/C-C-/blob/main/QQ%E6%88%AA%E5%9B%BE20240326152902.png
+    https://github.com/conquerqq2/C-C-/blob/b373366379b2dc194dd1dec223f1ba327177ecaf/QQ%E6%88%AA%E5%9B%BE20240326152832.png
 线上笔试题目
